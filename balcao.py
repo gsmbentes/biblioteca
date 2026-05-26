@@ -1,7 +1,7 @@
 
-from config_biblioteca  import Biblioteca
-from Liv import Livro
-from usuary  import Usuario
+from models.config_biblioteca  import Biblioteca
+from models.Liv import Livro
+from models.usuary  import Usuario
 
 def iniciar():
     nome_bib = input("Digite o nome da sua Biblioteca: ")

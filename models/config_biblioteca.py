@@ -1,5 +1,5 @@
-from Liv import Livro
-from usuary import Usuario
+from models.Liv import Livro
+from models.usuary import Usuario
 class Biblioteca:
     def __init__(self, nome_biblioteca):
         self.nome_biblioteca = nome_biblioteca
