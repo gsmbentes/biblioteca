@@ -12,7 +12,7 @@ O sistema opera através de um menu interativo no terminal e permite:
 * Sair do sistema com segurança.
 
 ## Tecnologias utilizadas
-* **Python 3** (utilizando apenas a biblioteca padrão, sem dependências externas).
+* **Python 3.13.2** (utilizando apenas a biblioteca padrão, sem dependências externas).
 
 ## Estrutura do projeto
 O código foi dividido em blocos de responsabilidade para seguir as boas práticas de POO:
